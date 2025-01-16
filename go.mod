@@ -1,4 +1,4 @@
-module zip_money
+module zip-money
 
 go 1.22.6
 
