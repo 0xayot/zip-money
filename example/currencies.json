@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Bitcoin",
+    "code": "BTC",
+    "minorFactor": 100000000
+  },
+  {
+    "name": "Litecoin",
+    "code": "LTC",
+    "minorFactor": 100000000
+  },
+  {
+    "name": "Ethereum",
+    "code": "ETH",
+    "minorFactor": 1000000000
+  },
+  {
+    "name": "Naira",
+    "code": "NGN",
+    "minorFactor": 100,
+    "fiat": true
+  },
+  {
+    "name": "Euro",
+    "code": "EUR",
+    "minorFactor": 100,
+    "fiat": true
+  },
+  {
+    "name": "Dollar",
+    "code": "USD",
+    "minorFactor": 100,
+    "fiat": true
+  },
+  {
+    "name": "USD Coin",
+    "code": "USDC",
+    "minorFactor": 100000000
+  },
+  {
+    "name": "USD Tether",
+    "code": "USDT",
+    "minorFactor": 100
+  }
+]
